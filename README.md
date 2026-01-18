@@ -1,4 +1,4 @@
 # SatyamGithubDemo
 This is my test repo
 <br>
-test for repo
+Author - Satyam Giri(demo)
